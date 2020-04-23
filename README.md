@@ -1,2 +1,2 @@
-# sample_deeplearning
-A toy deep learning exercise on mobile product attributes.
+# Classifying
+A toy classification exercise on mobile product attributes.
